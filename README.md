@@ -1,7 +1,7 @@
 <h1 align="center">RUNE-Helptp</h1>
 
 # What is this?
-By entering the command, you will be tp'd to a set location nearby.
+By entering the command, you will be tp to a set location nearby.
 
 # dependencies
 qb-input・QBCore
